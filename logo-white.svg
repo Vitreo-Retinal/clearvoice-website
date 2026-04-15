@@ -1,0 +1,13 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Overlapping speech bubbles -->
+  <rect x="4" y="14" width="28" height="22" rx="6" fill="#028090"/>
+  <polygon points="12,36 18,42 24,36" fill="#028090"/>
+  <rect x="18" y="24" width="28" height="22" rx="6" fill="#02C39A"/>
+  <polygon points="28,46 34,52 40,46" fill="#02C39A"/>
+  <!-- Bidirectional arrow inside -->
+  <line x1="20" y1="20" x2="32" y2="32" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="32,32 28,28 34,28" fill="white"/>
+  <!-- Wordmark (white for dark backgrounds) -->
+  <text x="58" y="32" font-family="'DM Serif Display', Georgia, serif" font-size="26" fill="#FFFFFF">ClearVoice</text>
+  <text x="58" y="50" font-family="'DM Sans', Calibri, sans-serif" font-size="14" font-weight="500" fill="#02C39A" letter-spacing="2">HEALTH</text>
+</svg>
